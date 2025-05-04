@@ -1,4 +1,4 @@
-# 🥁 cBpm v.2 - Crowd-based BPM Detector
+# 🎵 cBpm v.2 - Crowd-based BPM Detector
 
 **cBpm** (Crowd-based BPM) is an open-source experiment that captures the *collective rhythm* of a crowd by letting users tap to the beat during live music events. Taps are aggregated in real time, producing an accurate, community-driven BPM display.
 
