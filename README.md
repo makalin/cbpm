@@ -4,7 +4,7 @@
 
 Built with ultra-fast and lightweight technologies — no bloated frameworks, just **HTMX**, **Animora**, and **Rust**.
 
-![cBPM Preview](https://www.youtube.com/watch?v=hRP4IMtft4E)
+[![cBPM Demo](https://img.youtube.com/vi/hRP4IMtft4E/0.jpg)](https://www.youtube.com/watch?v=hRP4IMtft4E)
 
 ---
 
